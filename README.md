@@ -1,6 +1,6 @@
 # Notepad
 
-🔗[Click here to access]()
+🔗[Click here to access](https://lucasnotes.netlify.app)
 
 ## Preview
 ![preview](./src/assets/preview.png)
